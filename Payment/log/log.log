@@ -1,0 +1,6 @@
+2023-01-21 22:42:23 INFO  Payment:18 - Water{customerNumber=Water, amount=44.5}
+2023-01-21 22:42:23 INFO  Payment:18 - Water{customerNumber=Eclectricity, amount=44.45}
+2023-01-21 22:46:14 INFO  Payment:71 - Water{customerNumber=Water, amount=44.5}
+2023-01-21 22:46:14 INFO  Payment:17 - Electricity{customerNumber=Eclectricity, amount=44.45}
+2023-01-21 22:51:03 INFO  Payment:17 - კომუნალური გადახდილი : Water{customerNumber=Water, amount=44.5}
+2023-01-21 22:51:03 INFO  Payment:17 - კომუნალური გადახდილი : Electricity{customerNumber=Electricity, amount=44.45}
